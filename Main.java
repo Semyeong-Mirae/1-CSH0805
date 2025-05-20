@@ -1,5 +1,3 @@
-package interface_5_20;
-
 import java.util.Scanner;
 
 interface Calculator {
